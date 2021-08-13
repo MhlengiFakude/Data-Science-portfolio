@@ -3,4 +3,8 @@ This is a repository containing data science projects portfolio completed by me 
 ## Contents
 
 ### Data analysis and visualisation
+  - **python**
+
+    - exploratory data analysis
+   
 
